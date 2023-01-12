@@ -37,12 +37,12 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 540px;
+    max-width: 650px;
   }
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
-    margin-top: 50px;
+    margin: 20px 0 0;
   }
 `;
 
@@ -61,27 +61,30 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rais Ilham Nustara</h2>;
-  const three = <h2 className="medium-heading">I build things for the web and android.</h2>;
+  const three = <h2 className="medium-heading">I build things for the android and web</h2>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+      I am a 3rd-year Information Systems student from Airlangga University. 
+      <br/>
+      I am interested in Machine Learning, Android development, and web development. 
+      <br/>
+      Currently, I am working at {' '}
         <a href="https://ajakjago.id/" target="_blank" rel="noreferrer">
-          Upstatement
+          AjakJago
         </a>
-        .
+        &nbsp; 
+        a Web Development Manager.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="/resume.pdf"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my Resume
     </a>
   );
 
