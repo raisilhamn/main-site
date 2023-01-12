@@ -1,16 +1,11 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'KitaBisa Redesign '
+cover: './3.png'
+external: 'https://www.figma.com/file/udsNolt4hiNGmAkJ7pwL7o/Redesain-Website-Kitabisa.com?node-id=0%3A1&t=ZLSMxMi2olXK59Wg-1'
+cta: 'https://www.figma.com/file/udsNolt4hiNGmAkJ7pwL7o/Redesain-Website-Kitabisa.com?node-id=0%3A1&t=ZLSMxMi2olXK59Wg-1'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Figma
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+The current website for Kitabisa is using a mobile interface even when accessed from a web browser, it would be beneficial to redesign the website to make it more web-friendly. This would involve creating a separate layout and interface specifically designed for desktop and larger screens, which will give users a better experience when accessing the website from a web browser.

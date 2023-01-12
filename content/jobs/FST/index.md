@@ -7,6 +7,7 @@ range: 'September 2022 - November 2022'
 url: 'http://fst.unair.ac.id/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Designing and creating visually appealing and user-friendly websites using WordPress and Figma.
+- Customizing website templates and themes using CSS and JavaScript to match the client's brand and design requirements.
+- Creating and implementing responsive designs that work seamlessly across multiple devices and screen sizes.
+- Continuously testing the website to identify and resolve any usability or technical issues.
