@@ -3,6 +3,10 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://id.linkedin.com/in/raisilhamn',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/raisilhamn',
     },
@@ -14,14 +18,11 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/raisilhamjpg',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://id.linkedin.com/in/raisilhamn',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
   ],
 
   navLinks: [
