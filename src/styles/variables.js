@@ -10,7 +10,7 @@ const variables = css`
     --dark-slate: #495670;
     --slate: #ccd6f6;
     --light-slate: #f1f4ff;
-    --lightest-slate: #ccd6f6;
+    --lightest-slate: #f1f4ff;
     --white: #f1f6fb;
     --green: #64ffda;
     --green-tint: rgba(100, 255, 218, 0.1);
