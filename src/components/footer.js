@@ -107,19 +107,6 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/raisilhamn/main-site">
           <div>Designed &amp; Built by Rais Ilham Nustara, Credits : Brittany Chiang. </div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
         </a>
       </StyledCredit>
     </StyledFooter>
