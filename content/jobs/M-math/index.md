@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2022-10-01'
+title: 'Web Designer'
+company: 'M-Math FST'
+location: 'Megister Matematika, Fakultas Sains dan Teknologi'
+range: 'Oktober - December 2022'
+url: 'https://m-math.fst.unair.ac.id/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js

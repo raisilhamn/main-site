@@ -1,10 +1,10 @@
 ---
 date: '2015-12-21'
 title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+company: 'Ministry of Education'
+location: 'BPMPK Kemendikbud Ristekdikti'
+range: 'Oktober - December 2018'
+url: 'https://m-edukasi.kemdikbud.go.id/medukasi/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

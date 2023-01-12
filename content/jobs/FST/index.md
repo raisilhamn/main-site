@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2022-08-05'
+title: 'Web Designer'
+company: 'FST'
+location: 'Faculty of science and technology Airlangga University'
+range: 'September 2022 - November 2022'
+url: 'http://fst.unair.ac.id/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
