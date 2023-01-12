@@ -3,7 +3,7 @@ date: '2'
 title: 'Jamur / Struktur Tubuh Jamur'
 cover: './foto2.png'
 # github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMP02'
 tech:
   - C#
   - Unity 

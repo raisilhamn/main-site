@@ -3,7 +3,7 @@ date: '1'
 title: 'Aksara ku'
 cover: './ig.jpg'
 # github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMP02'
 tech:
   - Java
   - Figma
