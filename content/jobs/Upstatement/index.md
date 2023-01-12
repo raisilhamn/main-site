@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-11-20'
+title: 'Manager Web Development'
+company: 'AjakJago'
+location: 'Indonesia'
+range: 'Nov 2022 - Present '
+url: 'https://www.ajakjago.id/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
