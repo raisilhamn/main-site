@@ -38,7 +38,7 @@ const StyledLinkWrapper = styled.div`
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
     <StyledLinkWrapper>
-      <a href={`mailto:${email}`}>{email}</a>
+      <a href={`mailto:${email}`} style={{ fontSize: "12px" }} >{email}</a>
     </StyledLinkWrapper>
   </Side>
 );
