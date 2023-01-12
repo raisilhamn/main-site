@@ -74,7 +74,7 @@ const Hero = () => {
           AjakJago
         </a>
         &nbsp; 
-        a Web Development Manager.
+        as a Web Development Manager.
       </p>
     </>
   );
