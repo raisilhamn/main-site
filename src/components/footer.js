@@ -105,9 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/raisilhamn/main-site">
-          <div>Designed &amp; Built by Rais Ilham Nustara, Credits : Brittany Chiang. </div>
-        </a>
+      <div>Designed &amp; Built by Rais Ilham Nustara</div>
       </StyledCredit>
     </StyledFooter>
   );
