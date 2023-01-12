@@ -51,6 +51,7 @@ const Layout = ({ children, location }) => {
       <Head 
       />
       <script defer src="https://unpkg.com/@tinybirdco/flock.js" data-host="https://api.tinybird.co" data-token="p.eyJ1IjogImVlNTViODE0LThiMDAtNDUxOS04MjVlLTk4YTllYjUyNzliNiIsICJpZCI6ICI4OWQ3MzQzMi1mNzc4LTQ2YWMtODlmOS0yNzUzNjk5Y2I4ZmYifQ.52RRsE6QQnjObXhcCqx5X5TCzR5v9Mu4vo6pieifMWQ"></script>
+      <script defer data-domain="raisilham.com" src="https://stats.sethforprivacy.com/js/script.js"></script>
 
       <div id="root">
         <ThemeProvider theme={theme}>
