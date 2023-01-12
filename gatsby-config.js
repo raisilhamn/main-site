@@ -22,7 +22,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Rais Ilham Nustara',
-        short_name: 'Rais Ilham fix',
+        short_name: 'Rais Ilham',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
