@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Rais Ilham Nustara',
     description:
-      'Rais Ilham Nustara is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'I am a 3rd-year Information Systems student from Airlangga University. I am interested in Machine Learning, Android development, and web development. ',
     siteUrl: 'https://raisilham.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@raisilhamjpg',
