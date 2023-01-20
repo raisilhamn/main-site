@@ -105,10 +105,11 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-      <div>github.com/bchiang7/v4</div>      
-      {/* <div>Designed &amp; Built by Brittany | Customized by Rais</div> */}
-      {/* <a>gir</a> */}
-      
+        <div>
+          <a href="https://github.com/bchiang7/v4">github.com/bchiang7/v4</a>
+        </div>
+        {/* <div>Designed &amp; Built by Brittany | Customized by Rais</div> */}
+        {/* <a>gir</a> */}
       </StyledCredit>
     </StyledFooter>
   );
