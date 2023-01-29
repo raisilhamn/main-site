@@ -10,4 +10,4 @@ url: 'https://www.ajakjago.id/'
 - Leading a team of web developers and designers in the creation and maintenance of websites.
 - Overseeing the development, testing, and deployment of web projects.
 - Providing technical guidance and mentorship to team members.
-- Evaluate the performance of web development team members and provide feedback to help improve their skills 
+- Evaluate the performance of web development team members and provide feedback to help improve their skills

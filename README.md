@@ -1,6 +1,5 @@
 Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/6652056a-d79f-4d05-9994-c85c19d4dd10/deploy-status)](https://app.netlify.com/sites/raisilham/deploys)
 
-
 ## 🎨 Color Reference
 
 | Color          | Hex                                                                |
@@ -14,4 +13,4 @@ Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/6652056a-d79f-
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
-credit by to [brittanychiang.com](https://brittanychiang.com). 
+credit by to [brittanychiang.com](https://brittanychiang.com).

@@ -6,11 +6,11 @@ cover: './foto2.png'
 external: 'https://m-edukasi.kemdikbud.go.id/medukasi/?m1=vlab&produksi=2021&kd=ME21VLAB10'
 tech:
   - C#
-  - Unity 
+  - Unity
   - Figma
   - Android Studio
 ---
 
 "Jamur / Struktur Tubuh Jamur" is an educational mobile application that helps users identify and learn about different types of fungi. The app features mushrooms and other fungi, with detailed descriptions, images, and information on their habitats and body structures.
 
-Available on [BPMPK Kemendikbud site](https://m-edukasi.kemdikbud.go.id/medukasi/?m1=vlab&produksi=2021&kd=ME21VLAB10), 
+Available on [BPMPK Kemendikbud site](https://m-edukasi.kemdikbud.go.id/medukasi/?m1=vlab&produksi=2021&kd=ME21VLAB10),

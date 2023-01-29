@@ -48,11 +48,20 @@ const Layout = ({ children, location }) => {
 
   return (
     <>
-      <Head 
-      />
-      <script defer src="https://unpkg.com/@tinybirdco/flock.js" data-host="https://api.tinybird.co" data-token="p.eyJ1IjogImVlNTViODE0LThiMDAtNDUxOS04MjVlLTk4YTllYjUyNzliNiIsICJpZCI6ICI4OWQ3MzQzMi1mNzc4LTQ2YWMtODlmOS0yNzUzNjk5Y2I4ZmYifQ.52RRsE6QQnjObXhcCqx5X5TCzR5v9Mu4vo6pieifMWQ"></script>
-      <script data-host="https://anlytics.co" data-dnt="false" src="https://anlytics.co/js/script.js" id="ZwSg9rf6GA" async defer></script>
-      
+      <Head />
+      <script
+        defer
+        src="https://unpkg.com/@tinybirdco/flock.js"
+        data-host="https://api.tinybird.co"
+        data-token="p.eyJ1IjogImVlNTViODE0LThiMDAtNDUxOS04MjVlLTk4YTllYjUyNzliNiIsICJpZCI6ICI4OWQ3MzQzMi1mNzc4LTQ2YWMtODlmOS0yNzUzNjk5Y2I4ZmYifQ.52RRsE6QQnjObXhcCqx5X5TCzR5v9Mu4vo6pieifMWQ"></script>
+      <script
+        data-host="https://anlytics.co"
+        data-dnt="false"
+        src="https://anlytics.co/js/script.js"
+        id="ZwSg9rf6GA"
+        async
+        defer></script>
+
       <div id="root">
         <ThemeProvider theme={theme}>
           <GlobalStyle />

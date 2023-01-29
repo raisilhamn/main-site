@@ -14,4 +14,4 @@ tech:
 
 The app will provide users with a comprehensive introduction to the Javanese script, including its history, structure and usage. It will feature interactive lessons and exercises that will guide users through the learning process.
 
-Available on [BPMPK Kemendikbud site](https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMP02), 
+Available on [BPMPK Kemendikbud site](https://m-edukasi.kemdikbud.go.id/medukasi/?m1=lomba&produksi=2018&kd=ME18LOMP02),

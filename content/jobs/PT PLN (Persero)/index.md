@@ -1,6 +1,6 @@
 ---
 date: '2023-01-25'
-title: 'Full Stack Developer'
+title: 'Full Stack Developer Intern'
 company: 'PT PLN (Persero)'
 location: 'PLN Unit Induk Distribusi Jawa Timur'
 range: 'January 2023 - Present'
