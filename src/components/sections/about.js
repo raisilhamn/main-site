@@ -125,7 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Kotlin','Flutter','C#','Android Studio','Unity','Figma','Python', 'R','JavaScript (ES6+)', 'laravel','Gatsby', 'Node.js', 'WordPress'];
+  const skills = [
+    'Kotlin',
+    'Flutter',
+    'C#',
+    'Android Studio',
+    'Unity',
+    'Figma',
+    'Python',
+    'R',
+    'JavaScript',
+    'React',
+    'laravel',
+    'Gatsby',
+    'Node.js',
+    'WordPress',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,13 +149,18 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hello! My name is Rais Ilham Nustara and I enjoy creating things.</p>
+
             <p>
-              Hello! My name is Rais Ilham Nustara and I enjoy creating things.
+              As a highly motivated and adaptable Information Systems student with a strong academic
+              background, I am seeking an entry-level position in a dynamic organization where I can
+              utilize my technical skills and knowledge of various programming languages, database
+              management, and system analysis to drive business growth and innovation. I am
+              particularly interested in utilizing my skills in machine learning and data analysis
+              to optimize business processes and drive effective decision-making. My ultimate goal
+              is to become a valuable asset to the organization and advance my career in the field
+              of Information Systems.{' '}
             </p>
-
-            <p>
-            As a highly motivated and adaptable Information Systems student with a strong academic background, I am seeking an entry-level position in a dynamic organization where I can utilize my technical skills and knowledge of various programming languages, database management, and system analysis to drive business growth and innovation. I am particularly interested in utilizing my skills in machine learning and data analysis to optimize business processes and drive effective decision-making. My ultimate goal is to become a valuable asset to the organization and advance my career in the field of Information Systems.            </p>
-
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

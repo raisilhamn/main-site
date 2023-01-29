@@ -3,7 +3,7 @@ date: '2022-08-05'
 title: 'Web Designer'
 company: 'FST'
 location: 'Faculty of science and technology Airlangga University'
-range: 'September 2022 - November 2022'
+range: 'September 2022 - December 2022'
 url: 'http://fst.unair.ac.id/'
 ---
 
