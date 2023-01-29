@@ -65,25 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I am a 3rd-year Information Systems student from Airlangga University. 
-      <br/>
-      I am interested in Machine Learning, Android development, and web development. 
-      <br/>
-      Currently, I am working at {' '}
-        <a href="https://ajakjago.id/" target="_blank" rel="noreferrer">
-          AjakJago
-        </a>
-        &nbsp; 
-        as a Web Development Manager.
+        I am a 3rd-year Information Systems student from Airlangga University.
+        <br />
+        I am interested in Machine Learning, Android development, and web development.
+        <br />
+        Currently, I am working at PT PLN (Persero) as a Mobile Developer &nbsp; as a Full Stack
+        Developer Intern.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/resume.pdf"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       Check out my Resume
     </a>
   );
