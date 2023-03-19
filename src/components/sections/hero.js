@@ -76,8 +76,13 @@ const Hero = () => {
       Check out my Resume
     </a>
   );
+  const six = (
+    <a className="email-link" href="https://github.com/raisilhamn" target="_blank" rel="noreferrer">
+      Check out my Resume
+    </a>
+  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four, five, six];
 
   return (
     <StyledHeroSection>
