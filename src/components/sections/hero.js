@@ -3,7 +3,6 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
-import { FaGithub } from 'react-icons/fa';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -79,7 +78,7 @@ const Hero = () => {
   );
   const six = (
     <a className="email-link" href="https://github.com/raisilhamn" target="_blank" rel="noreferrer">
-      My github Profile <FaGithub style={{ marginLeft: '5px' }} />
+      My github Profile
     </a>
   );
 
