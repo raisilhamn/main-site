@@ -77,7 +77,18 @@ const Hero = () => {
       Check out my Resume
     </a>
   );
-  const six = <FaGithub style={{ marginLeft: '5px' }} />;
+  const six = (
+    <a
+      className="email-link"
+      style={{ marginRight: '5px' }}
+      href="https://github.com/raisilhamn"
+      target="_blank"
+      rel="noreferrer"
+    >
+      <FaGithub />
+      Check out my GitHub
+    </a>
+  );
 
   const items = [one, two, three, four, five, six];
 
@@ -92,12 +103,16 @@ const Hero = () => {
       ) : (
         <TransitionGroup component={null}>
           {isMounted && (
-            <div style={{ display: 'inline-block' }}>
-              {items.slice(0, 4).map((item, i) => (
-                <CSSTransition key={i} classNames="fadeup" timeout={loaderDelay}>
-                  <div style={{ transitionDelay: `${i + 1}00ms` }}>{item}</div>
-                </CSSTransition>
-              ))}
+            <div style={{ display: 'flex', flexDirection: 'column' }}>
+              <div style={{ display: 'flex', alignItems: 'center' }}>
+                {items.slice(0, 4).map((item, i) => (
+                  <CSSTransition key={i} classNames="fadeup" timeout={loaderDelay}>
+                    <div style={{ transitionDelay: `${i + 1}00ms`, marginRight: '1rem' }}>
+                      {item}
+                    </div>
+                  </CSSTransition>
+                ))}
+              </div>
               <div style={{ display: 'flex', alignItems: 'center' }}>
                 {items.slice(4, 6).map((item, i) => (
                   <CSSTransition key={i} classNames="fadeup" timeout={loaderDelay}>
