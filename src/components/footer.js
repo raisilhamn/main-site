@@ -68,7 +68,7 @@ const StyledCredit = styled.div`
 `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
+  const [setGitHubInfo] = useState({
     stars: null,
     forks: null,
   });
@@ -108,7 +108,11 @@ const Footer = () => {
         <div>
           <a href="https://github.com/bchiang7/v4">github.com/bchiang7/v4</a>
         </div>
-        {/* <div>Designed &amp; Built by Brittany | Customized by Rais</div> */}
+        {
+          <a rel="me" href="https://mastodon.social/@raisilham">
+            Mastodon
+          </a>
+        }
         {/* <a>gir</a> */}
       </StyledCredit>
     </StyledFooter>
