@@ -48,11 +48,15 @@ const Layout = ({ children, location }) => {
 
   return (
     <>
+      <a rel="me" href="https://mastodon.social/@raisilham">
+        Mastodon
+      </a>
       <Head />
       <script
         defer
         data-domain="raisilham.com"
-        src="https://stats.sethforprivacy.com/js/script.js"></script>
+        src="https://stats.sethforprivacy.com/js/script.js"
+      ></script>
 
       <script
         data-host="https://anlytics.co"
@@ -60,7 +64,8 @@ const Layout = ({ children, location }) => {
         src="https://anlytics.co/js/script.js"
         id="ZwSg9rf6GA"
         async
-        defer></script>
+        defer
+      ></script>
 
       <div id="root">
         <ThemeProvider theme={theme}>
