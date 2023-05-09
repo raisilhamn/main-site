@@ -48,9 +48,6 @@ const Layout = ({ children, location }) => {
 
   return (
     <>
-      <a rel="me" href="https://mastodon.social/@raisilham">
-        Mastodon
-      </a>
       <Head />
       <script
         defer

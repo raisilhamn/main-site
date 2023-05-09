@@ -109,9 +109,12 @@ const Footer = () => {
           <a href="https://github.com/bchiang7/v4">github.com/bchiang7/v4</a>
         </div>
         {
-          <a rel="me" href="https://mastodon.social/@raisilham">
-            Mastodon
-          </a>
+          <div>
+            Designed &amp; Built by Brittany | Customized by
+            <a rel="me" href="https://mastodon.social/@raisilham">
+              rais
+            </a>
+          </div>
         }
         {/* <a>gir</a> */}
       </StyledCredit>
