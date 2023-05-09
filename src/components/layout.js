@@ -63,7 +63,9 @@ const Layout = ({ children, location }) => {
         async
         defer
       ></script>
-
+      <a rel="me" href="https://mastodon.social/@raisilham">
+        -
+      </a>
       <div id="root">
         <ThemeProvider theme={theme}>
           <GlobalStyle />
