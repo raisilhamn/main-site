@@ -9,5 +9,6 @@ url: 'https://m-edukasi.kemdikbud.go.id/medukasi/'
 
 - Developing, testing and deploying mobile applications for the Android platform using Unity and C#.
 - Creating and implementing engaging, interactive and highly-responsive user interfaces.
-- Collaborating with designers to implement the visual elements of the application using Figma, and ensuring that the application design is adhered to.
-- Writing clean, maintainable and efficient code, following best practices and coding standards.
+- Working in collaboration with the drafting team and material reviewers to ensure the highest level of quality and accuracy in the final product.
+- Troubleshot and debugged issues that arose during the development process to ensure smooth operation and
+  functionality of the applications.
