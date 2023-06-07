@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a third-year Information Systems student from Airlangga University, with interests in
-        Machine Learning, Android development, and Web development. Currently, I am serving as a
-        Full Stack Developer Intern at PT PLN (Persero)
+        I am a third-year Information Systems student at Airlangga University. I am interested in
+        Machine Learning, Android development, and Web development. I am currently looking for an
+        internship opportunity.
       </p>
     </>
   );
@@ -76,13 +76,8 @@ const Hero = () => {
       Check out my Resume
     </a>
   );
-  const six = (
-    <a className="email-link" href="https://github.com/raisilhamn" target="_blank" rel="noreferrer">
-      My github Profile
-    </a>
-  );
 
-  const items = [one, two, three, four, five, six];
+  const items = [one, two, three, four, five];
 
   return (
     <StyledHeroSection>
