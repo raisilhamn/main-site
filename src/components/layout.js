@@ -54,15 +54,9 @@ const Layout = ({ children, location }) => {
         data-domain="raisilham.com"
         src="https://stats.sethforprivacy.com/js/script.js"
       ></script>
+      <script async src="https://analytics.umami.is/script.js" 
+      data-website-id="de6c3b53-511c-437d-a0a5-10ed019db7ff"></script>
 
-      <script
-        data-host="https://anlytics.co"
-        data-dnt="false"
-        src="https://anlytics.co/js/script.js"
-        id="ZwSg9rf6GA"
-        async
-        defer
-      ></script>
       <a rel="me" href="https://mastodon.social/@raisilham">
         -
       </a>
