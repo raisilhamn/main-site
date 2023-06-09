@@ -3,7 +3,7 @@ date: '2022-11-20'
 title: 'Manager Web Development'
 company: 'AjakJago'
 location: 'Indonesia'
-range: 'November 2022 - Present '
+range: 'November 2022 - April 2023 '
 url: 'https://www.ajakjago.id/'
 ---
 
