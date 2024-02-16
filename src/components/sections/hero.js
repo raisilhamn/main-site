@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a third-year Information Systems student at Airlangga University. I am interested in
-        Machine Learning, Android development, and Web development. I am currently looking for an
-        internship opportunity.
+        I am a last year Information Systems student at Airlangga University. I am interested in
+        Machine Learning, Android development, and Web development.
       </p>
     </>
   );

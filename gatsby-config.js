@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Rais Ilham Nustara',
     description:
-      'I am a 3rd-year Information Systems student from Airlangga University. I am interested in Machine Learning, Android development, and web development. ',
+      'I am a last year information systems student from Universitas Airlangga. I am interested in Machine Learning, Android development, and web development. ',
     siteUrl: 'https://raisilham.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@raisilhamjpg',
