@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'raisilham20@gmail.com',
+  email: 'halo@raisilham.com',
 
   socialMedia: [
     {
@@ -10,14 +10,14 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/raisilhamn',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/raisilham.jpg',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/raisilhamjpg',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/raisilham.jpg',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/raisilhamjpg',
+    // },
 
     // {
     //   name: 'Codepen',

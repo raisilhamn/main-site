@@ -3,7 +3,7 @@ date: '2023-08-14'
 title: 'IT Developer Intern'
 company: 'United Traitors'
 location: 'Jakarta'
-range: 'Agustus 2022 - January 2023 '
+range: 'Agustus 2023 - January 2024 '
 url: 'https://www.dsinta.ykbut.co.id/'
 ---
 
